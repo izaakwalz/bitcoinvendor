@@ -1,4 +1,4 @@
-# Bitcoin Lord Clone
+# Bitcoin Vendor website
 
 ## created a website like [bitcoinlor](https://bitcoinlord.org) well do not where that site went to😀
 
